@@ -1,0 +1,1062 @@
+[
+  {
+    "feeTier": "500",
+    "id": "0x07f3d316630719f4fc69c152f397c150f0831071",
+    "liquidity": "170795235427",
+    "token0": {
+      "decimals": "6",
+      "id": "0xc581b735a1688071a1746c968e0798d642ede491",
+      "name": "Euro Tether",
+      "symbol": "EURT"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "540762.0669059351769877588291431945",
+    "txCount": "19683",
+    "volumeUSD": "1080061891.172704189721489134944611",
+    "token0Price": 1.083,
+    "token1Price": 0.999087,
+    "apr": 11.54,
+    "oneDayVolTVL": 199729.59592977137
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x0cfbed8f2248d2735203f602be0cae5a3131ec68",
+    "liquidity": "598397697496",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "decimals": "0",
+      "id": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+      "name": "Smooth Love Potion",
+      "symbol": "SLP"
+    },
+    "totalValueLockedUSD": "1132478.046684194906108837582013728",
+    "txCount": "200211",
+    "volumeUSD": "844216630.3807884935654118586953876",
+    "token0Price": 2433.33,
+    "token1Price": 0.00231352,
+    "apr": 15.45,
+    "oneDayVolTVL": 74545.95988439575
+  },
+  {
+    "feeTier": "500",
+    "id": "0x0da6253560822973185297d5f32ff8fa38243afe",
+    "liquidity": "2329640105613",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC"
+    },
+    "totalValueLockedUSD": "28253818.79733125168921257244158994",
+    "txCount": "1841",
+    "volumeUSD": "100462668.9675288950682570061303587",
+    "token0Price": 61660,
+    "token1Price": 61702,
+    "apr": 0.08,
+    "oneDayVolTVL": 355.5720013926691
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x11f851639dd46a07f178e81ee1b234e91fd89c97",
+    "liquidity": "21879925853958",
+    "token0": {
+      "decimals": "9",
+      "id": "0x8ccd897ca6160ed76755383b201c1948394328c7",
+      "name": "Wrapped Balance AI",
+      "symbol": "wBAI"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "2407945.556487178997944641160030707",
+    "txCount": "32065",
+    "volumeUSD": "122270556.923879",
+    "token0Price": 1.75,
+    "token1Price": 0.999783,
+    "apr": 0.2,
+    "oneDayVolTVL": 5077.795741455752
+  },
+  null,
+  {
+    "feeTier": "10000",
+    "id": "0x25c0edc51909fc20429c6ece9b8f4fbb5af13878",
+    "liquidity": "2595821776557",
+    "token0": {
+      "decimals": "12",
+      "id": "0x347a96a5bd06d2e15199b032f46fb724d6c73047",
+      "name": "Application Specific Internet Coin",
+      "symbol": "ASIC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "134301.775515",
+    "txCount": "27259",
+    "volumeUSD": "26380315.686495",
+    "token0Price": 0.02386056,
+    "token1Price": 0.999783,
+    "apr": 0.37,
+    "oneDayVolTVL": 19642.566589559807
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x2a48dbf6347ea5cdc906b4bb6a2ed27969241cde",
+    "liquidity": "1290466322237",
+    "token0": {
+      "decimals": "9",
+      "id": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+      "name": "Wrapped TON Coin",
+      "symbol": "TONCOIN"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "150686.7370400040442861245863131702",
+    "txCount": "6343",
+    "volumeUSD": "7421551.278267",
+    "token0Price": 5.16,
+    "token1Price": 0.999783,
+    "apr": 0.21,
+    "oneDayVolTVL": 4925.152288815398
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x3aaf77ba7da262e34dffb9b10fc6777bfda79ab7",
+    "liquidity": "6125952940",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "9",
+      "id": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
+      "name": "Icosa",
+      "symbol": "ICSA"
+    },
+    "totalValueLockedUSD": "109545.610555",
+    "txCount": "24451",
+    "volumeUSD": "21917132.672229",
+    "token0Price": 0.999783,
+    "token1Price": 0.057321,
+    "apr": 130.59,
+    "oneDayVolTVL": 20007.312535106073
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x3cb75142bdae2bef3eb119affb288aeb0599dc4f",
+    "liquidity": "1015500717378",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+      "name": "renBTC",
+      "symbol": "renBTC"
+    },
+    "totalValueLockedUSD": "127163.1154757419114364194191583853",
+    "txCount": "8529",
+    "volumeUSD": "25915882.24310396554877233849104826",
+    "token0Price": 2433.33,
+    "token1Price": 6530.24,
+    "apr": 0.28,
+    "oneDayVolTVL": 20380.030912381797
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x4548280ac92507c9092a511c7396cbea78fa9e49",
+    "liquidity": "1630924106195",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC"
+    },
+    "totalValueLockedUSD": "7394217.341262995186698359651284104",
+    "txCount": "1607",
+    "volumeUSD": "21687783.934814",
+    "token0Price": 0.999783,
+    "token1Price": 61702,
+    "apr": 0.15,
+    "oneDayVolTVL": 293.3073634958848
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x4721f28bf168904d228a05a6054a7ea68f7c9d78",
+    "liquidity": "4692188906190",
+    "token0": {
+      "decimals": "18",
+      "id": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
+      "name": "Project Galaxy",
+      "symbol": "GAL"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "74772.13029900000000000000000000002",
+    "txCount": "9871",
+    "volumeUSD": "41326869.963009",
+    "token0Price": 1.96,
+    "token1Price": 0.999783,
+    "apr": 0.1,
+    "oneDayVolTVL": 55270.41933638971
+  },
+  null,
+  {
+    "feeTier": "500",
+    "id": "0x56534741cd8b152df6d48adf7ac51f75169a83b2",
+    "liquidity": "248460930196",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "434462.2691915140931343959797611015",
+    "txCount": "24493",
+    "volumeUSD": "88861574.07273220547199588796802657",
+    "token0Price": 61660,
+    "token1Price": 0.999087,
+    "apr": 0.65,
+    "oneDayVolTVL": 20453.231586276455
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x584ec2562b937c4ac0452184d8d83346382b5d3a",
+    "liquidity": "287675668875",
+    "token0": {
+      "decimals": "9",
+      "id": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+      "name": "Olympus",
+      "symbol": "OHM"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "totalValueLockedUSD": "335341.1869463861745425085612364665",
+    "txCount": "13465",
+    "volumeUSD": "65368972.25226603210571246150040645",
+    "token0Price": 15.34,
+    "token1Price": 2433.33,
+    "apr": 8.29,
+    "oneDayVolTVL": 19493.27276124812
+  },
+  {
+    "feeTier": "500",
+    "id": "0x5aa1356999821b533ec5d9f79c23b8cb7c295c61",
+    "liquidity": "1430420237790",
+    "token0": {
+      "decimals": "2",
+      "id": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+      "name": "Gemini dollar",
+      "symbol": "GUSD"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "219587.0088511527716123641421116892",
+    "txCount": "13835",
+    "volumeUSD": "177786980.319217",
+    "token0Price": 1,
+    "token1Price": 0.999783,
+    "apr": 0.23,
+    "oneDayVolTVL": 80964.25250718273
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x5f0d8fc6057a959e79f7f79f8dbf12f29f9a9f34",
+    "liquidity": "57199003165",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "9",
+      "id": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+      "name": "Wrapped TON Coin",
+      "symbol": "TONCOIN"
+    },
+    "totalValueLockedUSD": "260050.3121643647010741043985497242",
+    "txCount": "8657",
+    "volumeUSD": "15901298.21605465608612580017487806",
+    "token0Price": 61660,
+    "token1Price": 5.16,
+    "apr": 3.04,
+    "oneDayVolTVL": 6114.70068376778
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x5f7e8408e573e934b0df49ba5b569c30f1ebbad4",
+    "liquidity": "5036196852107",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+      "name": "Ethereum Name Service",
+      "symbol": "ENS"
+    },
+    "totalValueLockedUSD": "394640.3034537969099384122341698686",
+    "txCount": "5855",
+    "volumeUSD": "56407010.672239",
+    "token0Price": 0.999783,
+    "token1Price": 16.69,
+    "apr": 0.41,
+    "oneDayVolTVL": 14293.271665001881
+  },
+  {
+    "feeTier": "500",
+    "id": "0x6279653c28f138c8b31b8a0f6f8cd2c58e8c1705",
+    "liquidity": "11611877087070",
+    "token0": {
+      "decimals": "6",
+      "id": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+      "name": "XSGD",
+      "symbol": "XSGD"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "880987.146402165941815097225257415",
+    "txCount": "32091",
+    "volumeUSD": "513346954.850031",
+    "token0Price": 0.765106,
+    "token1Price": 0.999783,
+    "apr": 0.08,
+    "oneDayVolTVL": 58269.51697836586
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5",
+    "liquidity": "23633925807080",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "name": "HEX",
+      "symbol": "HEX"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "8444342.717659483547429739127665522",
+    "txCount": "393313",
+    "volumeUSD": "5039611425.479676076600388248524395",
+    "token0Price": 0.0028861,
+    "token1Price": 0.999783,
+    "apr": 2.33,
+    "oneDayVolTVL": 59680.32793056159
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x6a9c4fc2b35ee398e7a0e75d982872466ba93cb8",
+    "liquidity": "12887475362884",
+    "token0": {
+      "decimals": "9",
+      "id": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+      "name": "Wrapped TON Coin",
+      "symbol": "TONCOIN"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "834906.6159033212732982426208680593",
+    "txCount": "14314",
+    "volumeUSD": "28429581.2226406327292979456877457",
+    "token0Price": 5.16,
+    "token1Price": 0.999087,
+    "apr": 0.08,
+    "oneDayVolTVL": 3405.1210855337936
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x6ab3bba2f41e7eaa262fa5a1a9b3932fa161526f",
+    "liquidity": "35539985991496",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "totalValueLockedUSD": "1627731.309811630961580613247054963",
+    "txCount": "10033",
+    "volumeUSD": "72877812.19617897302384501537264622",
+    "token0Price": 61660,
+    "token1Price": 2433.33,
+    "apr": 0.07,
+    "oneDayVolTVL": 4477.263032104036
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x6c4ab1907805adcb0b7ae911a5d1b0b99d608b3c",
+    "liquidity": "10287142162307",
+    "token0": {
+      "decimals": "18",
+      "id": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+      "name": "dYdX",
+      "symbol": "DYDX"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "1014740.228565996121678536940141872",
+    "txCount": "16794",
+    "volumeUSD": "610205341.5259122724821412408243735",
+    "token0Price": 0.871107,
+    "token1Price": 0.999087,
+    "apr": 0.65,
+    "oneDayVolTVL": 60134.14313811509
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x813b22032e94667cc0f854cc7241fc5a309c45bc",
+    "liquidity": "5611987836068",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+      "name": "LooksRare Token",
+      "symbol": "LOOKS"
+    },
+    "totalValueLockedUSD": "72692.83543664062084412451642773204",
+    "txCount": "12132",
+    "volumeUSD": "46409977.657063",
+    "token0Price": 0.999783,
+    "token1Price": 0.04066777,
+    "apr": 0.09,
+    "oneDayVolTVL": 63843.95020264979
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x83b486a0ca1c32f642e54b6f031ad346067f82b9",
+    "liquidity": "338604563544",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "8",
+      "id": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+      "name": "Binance Wrapped BTC",
+      "symbol": "BBTC"
+    },
+    "totalValueLockedUSD": "769284.6909306484341427000791608025",
+    "txCount": "4873",
+    "volumeUSD": "30848451.32724714682524215706600377",
+    "token0Price": 61660,
+    "token1Price": 61590,
+    "apr": 1,
+    "oneDayVolTVL": 4010.017577488508
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x93f267fd92b432bebf4da4e13b8615bb8eb2095c",
+    "liquidity": "14850764845",
+    "token0": {
+      "decimals": "2",
+      "id": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+      "name": "Gemini dollar",
+      "symbol": "GUSD"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "480112.8388458517081870422492271469",
+    "txCount": "6368",
+    "volumeUSD": "156783576.698223",
+    "token0Price": 1,
+    "token1Price": 0.999783,
+    "apr": 115.6,
+    "oneDayVolTVL": 32655.568444100907
+  },
+  {
+    "feeTier": "500",
+    "id": "0x95dbb3c7546f22bce375900abfdd64a4e5bd73d6",
+    "liquidity": "12857440180309",
+    "token0": {
+      "decimals": "6",
+      "id": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+      "name": "Euro Coin",
+      "symbol": "EUROC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "766620.9051464441366335480637290062",
+    "txCount": "21530",
+    "volumeUSD": "321247301.052199",
+    "token0Price": 1.094,
+    "token1Price": 0.999783,
+    "apr": 0.05,
+    "oneDayVolTVL": 41904.32310097683
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x975c822e26a514e7a1b75be587aefc738a73eee7",
+    "liquidity": "1382071229267",
+    "token0": {
+      "decimals": "6",
+      "id": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "name": "Axelar",
+      "symbol": "AXL"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "1171439.931493457985829362505010065",
+    "txCount": "29483",
+    "volumeUSD": "152031342.536686",
+    "token0Price": 0.594626,
+    "token1Price": 0.999783,
+    "apr": 1.2,
+    "oneDayVolTVL": 12978.159481285791
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x9902affdd3b8ef60304958c60377110c6d6ab1df",
+    "liquidity": "284136001064",
+    "token0": {
+      "decimals": "18",
+      "id": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "273201.2204831031367500692518119575",
+    "txCount": "1090",
+    "volumeUSD": "51604820.703444",
+    "token0Price": 0.998212,
+    "token1Price": 0.999783,
+    "apr": 1.99,
+    "oneDayVolTVL": 18888.942228073112
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+    "liquidity": "13762921386498",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "116127212.2547341079795448544236703",
+    "txCount": "241674",
+    "volumeUSD": "15740915373.91886966879742636227286",
+    "token0Price": 61660,
+    "token1Price": 0.999783,
+    "apr": 12.52,
+    "oneDayVolTVL": 13554.889563171415
+  },
+  {
+    "feeTier": "500",
+    "id": "0x9a772018fbd77fcd2d25657e5c547baff3fd7d16",
+    "liquidity": "489115310907",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "4550532.694438207363184891847581474",
+    "txCount": "239496",
+    "volumeUSD": "4801880834.631378682249638751689958",
+    "token0Price": 61660,
+    "token1Price": 0.999783,
+    "apr": 17.92,
+    "oneDayVolTVL": 105523.4882830394
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x9db9e0e53058c89e5b94e29621a205198648425b",
+    "liquidity": "6022304964027",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "60186982.90481478884410590381828209",
+    "txCount": "129382",
+    "volumeUSD": "3909741216.219707968836005421061201",
+    "token0Price": 61660,
+    "token1Price": 0.999087,
+    "apr": 7.11,
+    "oneDayVolTVL": 6495.991371428156
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xa06b80e8912d94bfa4a5772c05d96c638435d15d",
+    "liquidity": "503393651804",
+    "token0": {
+      "decimals": "8",
+      "id": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+      "name": "Qredo Token",
+      "symbol": "QRDO"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "138722.944311",
+    "txCount": "8925",
+    "volumeUSD": "30365564.653679",
+    "token0Price": 0.0084006,
+    "token1Price": 0.999783,
+    "apr": 2.2,
+    "oneDayVolTVL": 21889.359978983066
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xa74ac034f5d255d19c0fae3e30a51f8482e20a91",
+    "liquidity": "107070579",
+    "token0": {
+      "decimals": "0",
+      "id": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
+      "name": "MtPelerin Shares",
+      "symbol": "MPS"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "75192.345093",
+    "txCount": "382",
+    "volumeUSD": "486392.268271",
+    "token0Price": 4.31,
+    "token1Price": 0.999783,
+    "apr": 165.81,
+    "oneDayVolTVL": 646.8640759500405
+  },
+  {
+    "feeTier": "500",
+    "id": "0xa87b2ff0759f5b82c7ec86444a70f25c6bffccbf",
+    "liquidity": "2033769028662",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+      "name": "UST (Wormhole)",
+      "symbol": "UST"
+    },
+    "totalValueLockedUSD": "855820.8358325722390841447392083292",
+    "txCount": "4511",
+    "volumeUSD": "295846884.041646",
+    "token0Price": 0.999783,
+    "token1Price": 0.02081145,
+    "apr": 0.27,
+    "oneDayVolTVL": 34568.78725718753
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xb07fe2f407f971125d4eb1977f8acee8846c7324",
+    "liquidity": "100886457409477",
+    "token0": {
+      "decimals": "18",
+      "id": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "name": "ApeCoin",
+      "symbol": "APE"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "973794.6020572694784776659394164784",
+    "txCount": "54980",
+    "volumeUSD": "614582439.763707",
+    "token0Price": 0.719482,
+    "token1Price": 0.999783,
+    "apr": 0.07,
+    "oneDayVolTVL": 63112.12225507521
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xb10707f0d75c7deee0089ce00798ece3c07260f4",
+    "liquidity": "487036284199",
+    "token0": {
+      "decimals": "9",
+      "id": "0x0173661769325565d4f011b2e5cda688689cc87c",
+      "name": "Quantland",
+      "symbol": "QLT"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "68393.152309",
+    "txCount": "1250",
+    "volumeUSD": "3534580.587208",
+    "token0Price": 11.02,
+    "token1Price": 0.999783,
+    "apr": 0.26,
+    "oneDayVolTVL": 5168.032862762018
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xb71a1a57d79893ec4fefc252e8e623575bb044be",
+    "liquidity": "77148852195",
+    "token0": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xec56840be7c495cbf98c0157b458cd207ff85da1",
+      "name": "Wrapped RUNI",
+      "symbol": "wRUNI"
+    },
+    "totalValueLockedUSD": "56258.629188",
+    "txCount": "1784",
+    "volumeUSD": "1223083.311100491757147708084813549",
+    "token0Price": 0.999087,
+    "token1Price": 0.526651,
+    "apr": 0.17,
+    "oneDayVolTVL": 2174.036816669142
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xb77a5a8355114269fa45056b7408dbcd1cdfd0a9",
+    "liquidity": "43679770046",
+    "token0": {
+      "decimals": "8",
+      "id": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+      "name": "Agoras Token",
+      "symbol": "AGRS"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "283085.8756358897771200083598021238",
+    "txCount": "9849",
+    "volumeUSD": "29333828.32414321363076663370572658",
+    "token0Price": 1.93,
+    "token1Price": 0.999087,
+    "apr": 24.51,
+    "oneDayVolTVL": 10362.165988766223
+  },
+  null,
+  {
+    "feeTier": "10000",
+    "id": "0xcbbe436425a115dd0d38c576f4cc78bc2a3fb740",
+    "liquidity": "40943384577",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "token1": {
+      "decimals": "0",
+      "id": "0xcd17fa52528f37facb3028688e62ec82d9417581",
+      "name": "Materium",
+      "symbol": "MTRM"
+    },
+    "totalValueLockedUSD": "101210.7481710979349110584498956405",
+    "txCount": "15624",
+    "volumeUSD": "18627973.56005946267271549020091425",
+    "token0Price": 2433.33,
+    "token1Price": 0.02509984,
+    "apr": 16.61,
+    "oneDayVolTVL": 18405.13373991531
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xd3ca35355106cb8bc5fd7c534275509673319d83",
+    "liquidity": "1393382060112",
+    "token0": {
+      "decimals": "18",
+      "id": "0x3aada3e213abf8529606924d8d1c55cbdc70bf74",
+      "name": "XMON",
+      "symbol": "XMON"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "673074.7682923299597508265263854287",
+    "txCount": "13448",
+    "volumeUSD": "130381297.847499",
+    "token0Price": 548.31,
+    "token1Price": 0.999783,
+    "apr": 3.42,
+    "oneDayVolTVL": 19370.99769440054
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xd6a309f49cf79542cea91df7b334eb4bd29aa0d7",
+    "liquidity": "20945626142821",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "name": "StargateToken",
+      "symbol": "STG"
+    },
+    "totalValueLockedUSD": "437826.9491567352624255858201480999",
+    "txCount": "19063",
+    "volumeUSD": "261423388.837097",
+    "token0Price": 0.999783,
+    "token1Price": 0.290082,
+    "apr": 0.14,
+    "oneDayVolTVL": 59709.29595371058
+  },
+  null,
+  {
+    "feeTier": "10000",
+    "id": "0xeba623e4f5c7735427a9ef491ecee082dd4bf6ce",
+    "liquidity": "6281542934289",
+    "token0": {
+      "decimals": "0",
+      "id": "0x30ae41d5f9988d359c733232c6c693c0e645c77e",
+      "name": "Wrapped AyeAyeCoin",
+      "symbol": "WAAC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "totalValueLockedUSD": "2314361.933735356303770574992319803",
+    "txCount": "6245",
+    "volumeUSD": "9233863.290686857457305141707218908",
+    "token0Price": 2.87,
+    "token1Price": 2433.33,
+    "apr": 0.05,
+    "oneDayVolTVL": 398.98095263706216
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xf275e3aebac1157528dc3973a154dbc301d193c4",
+    "liquidity": "2501241616161",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+      "name": "Tribe",
+      "symbol": "TRIBE"
+    },
+    "totalValueLockedUSD": "91527.583526283658730425428842791",
+    "txCount": "323",
+    "volumeUSD": "6176451.077674",
+    "token0Price": 0.999783,
+    "token1Price": 0.457967,
+    "apr": 0.09,
+    "oneDayVolTVL": 6748.185453733004
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xf4e43a4a17d2820c7cf724e46844943931a47894",
+    "liquidity": "13671400342170",
+    "token0": {
+      "decimals": "9",
+      "id": "0x7b0df1cd724ec34ec9bc4bd19749b01afb490761",
+      "name": "Kittekoin",
+      "symbol": "KOIN"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "421450.124037004354964742261176044",
+    "txCount": "7562",
+    "volumeUSD": "60016072.04124",
+    "token0Price": 0.00854124,
+    "token1Price": 0.999783,
+    "apr": 0.16,
+    "oneDayVolTVL": 14240.373562203635
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xf763bb342eb3d23c02ccb86312422fe0c1c17e94",
+    "liquidity": "329225395185",
+    "token0": {
+      "decimals": "9",
+      "id": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
+      "name": "Wrapped TAO",
+      "symbol": "wTAO"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "totalValueLockedUSD": "4023247.060326024403035923109650208",
+    "txCount": "35005",
+    "volumeUSD": "283873325.349643",
+    "token0Price": 593.12,
+    "token1Price": 0.999783,
+    "apr": 31.47,
+    "oneDayVolTVL": 7055.82632866298
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xfeb6a9de89465da662ff16f85b5342b73bd0b455",
+    "liquidity": "3649517506",
+    "token0": {
+      "decimals": "9",
+      "id": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
+      "name": "Wrapped TAO",
+      "symbol": "wTAO"
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "totalValueLockedUSD": "114541.7636315983351181961544131899",
+    "txCount": "3503",
+    "volumeUSD": "8359346.333553299679907693436704792",
+    "token0Price": 593.12,
+    "token1Price": 0.999087,
+    "apr": 83.6,
+    "oneDayVolTVL": 7298.077197797946
+  }
+]
